@@ -2,7 +2,7 @@
    <runtime>  
       <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">  
 		<dependentAssembly>
-			<assemblyIdentity name="calc" publicKeyoken="5c34deaa930f0413" culture="neautral" />
+			<assemblyIdentity name="calc" publicKeyToken="5c34deaa930f0413" culture="neautral" />
 			<bindingRedirect  oldVersion="0.0.0.0" newVersion="1.0.0.0"/>
 		</dependentAssembly>
 	  </assemblyBinding>  
