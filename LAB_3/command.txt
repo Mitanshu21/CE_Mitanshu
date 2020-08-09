@@ -1,0 +1,14 @@
+# Steps to create strong named assembly calc.dll and deploy it to GAC
+
+	1. sn -k mykey.snk
+	2. csc /t:library /keyfile:mykey.snk calc.cs
+	3. gacutil –i calc.dll   (in developer command prompt of vs in administrator mode)
+
+# Steps to create a new version calc.dll and deploy it to GAC
+
+	1. Add following line to new calc_new.cs file's beginning
+		- using System.Reflection;
+		- [assembly : AssemblyVersion("1.0.0.0")]
+	2. csc /t:library /out:calc.dll /keyfile:mykey.snk calc_new.cs
+	3. gacutil -i calc.dll   (in developer command prompt of vs in administrator mode)
+	
