@@ -44,7 +44,11 @@ namespace WebApplication3
             }
             else
             {
-                showcockie.Text = Request.Cookies["user_info"].Value;
+                //showcockie.Text = Request.Cookies["user_info"].Value;
+                HttpCookie reqcookie = Request.Cookies["user_info"];
+                showcockie.Text = "username:- " + reqcookie["username"].ToString() + "<br />";
+                showcockie.Text += "age:- " + reqcookie["age"].ToString();
+
             }
         }
     }
