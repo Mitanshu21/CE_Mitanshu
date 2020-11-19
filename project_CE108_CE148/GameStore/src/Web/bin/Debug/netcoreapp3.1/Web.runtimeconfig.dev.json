@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mitan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mitan\\.nuget\\packages"
+    ]
+  }
+}

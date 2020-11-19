@@ -1,0 +1,12 @@
+C:\Users\mitan\Desktop\eShopOnWeb-master\eShopOnWeb-master\src\ApplicationCore\bin\Debug\netstandard2.1\ApplicationCore.deps.json
+C:\Users\mitan\Desktop\eShopOnWeb-master\eShopOnWeb-master\src\ApplicationCore\bin\Debug\netstandard2.1\ApplicationCore.dll
+C:\Users\mitan\Desktop\eShopOnWeb-master\eShopOnWeb-master\src\ApplicationCore\bin\Debug\netstandard2.1\ApplicationCore.pdb
+C:\Users\mitan\Desktop\eShopOnWeb-master\eShopOnWeb-master\src\ApplicationCore\bin\Debug\netstandard2.1\BlazorShared.dll
+C:\Users\mitan\Desktop\eShopOnWeb-master\eShopOnWeb-master\src\ApplicationCore\bin\Debug\netstandard2.1\BlazorShared.pdb
+C:\Users\mitan\Desktop\eShopOnWeb-master\eShopOnWeb-master\src\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\mitan\Desktop\eShopOnWeb-master\eShopOnWeb-master\src\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\mitan\Desktop\eShopOnWeb-master\eShopOnWeb-master\src\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.AssemblyInfo.cs
+C:\Users\mitan\Desktop\eShopOnWeb-master\eShopOnWeb-master\src\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\mitan\Desktop\eShopOnWeb-master\eShopOnWeb-master\src\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.csproj.CopyComplete
+C:\Users\mitan\Desktop\eShopOnWeb-master\eShopOnWeb-master\src\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.dll
+C:\Users\mitan\Desktop\eShopOnWeb-master\eShopOnWeb-master\src\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.pdb
